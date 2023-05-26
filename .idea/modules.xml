@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Banco/Banco.iml" filepath="$PROJECT_DIR$/Banco/Banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Barbearia/Barbearia.iml" filepath="$PROJECT_DIR$/Barbearia/Barbearia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cardapio/Cardapio.iml" filepath="$PROJECT_DIR$/Cardapio/Cardapio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cardapio2/Cardapio2.iml" filepath="$PROJECT_DIR$/Cardapio2/Cardapio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CartaoBeneficio/CartaoBeneficio.iml" filepath="$PROJECT_DIR$/CartaoBeneficio/CartaoBeneficio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Construtores/Construtores.iml" filepath="$PROJECT_DIR$/Construtores/Construtores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContasPagar/ContasPagar.iml" filepath="$PROJECT_DIR$/ContasPagar/ContasPagar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioEncapsulamento/DesafioEncapsulamento.iml" filepath="$PROJECT_DIR$/DesafioEncapsulamento/DesafioEncapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioFolhaPagamento/DesafioFolhaPagamento.iml" filepath="$PROJECT_DIR$/DesafioFolhaPagamento/DesafioFolhaPagamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioHeranca/DesafioHeranca.iml" filepath="$PROJECT_DIR$/DesafioHeranca/DesafioHeranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioHeranca2/DesafioHeranca2.iml" filepath="$PROJECT_DIR$/DesafioHeranca2/DesafioHeranca2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioInterface/DesafioInterface.iml" filepath="$PROJECT_DIR$/DesafioInterface/DesafioInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioMetodos/DesafioMetodos.iml" filepath="$PROJECT_DIR$/DesafioMetodos/DesafioMetodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioPolimorfismo/DesafioPolimorfismo.iml" filepath="$PROJECT_DIR$/DesafioPolimorfismo/DesafioPolimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DespesasGerenciador/DespesasGerenciador.iml" filepath="$PROJECT_DIR$/DespesasGerenciador/DespesasGerenciador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fiap/Fiap.iml" filepath="$PROJECT_DIR$/Fiap/Fiap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Financeira/Financeira.iml" filepath="$PROJECT_DIR$/Financeira/Financeira.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Folha de pagamento.iml" filepath="$PROJECT_DIR$/Folha de pagamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FormulasMatematicas/FormulasMatematicas.iml" filepath="$PROJECT_DIR$/FormulasMatematicas/FormulasMatematicas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LIvroJavaLambda/LIvroJavaLambda.iml" filepath="$PROJECT_DIR$/LIvroJavaLambda/LIvroJavaLambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LivroJava17/LivroJava17.iml" filepath="$PROJECT_DIR$/LivroJava17/LivroJava17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Locadora/Locadora.iml" filepath="$PROJECT_DIR$/Locadora/Locadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotaFiscal/NotaFiscal.iml" filepath="$PROJECT_DIR$/NotaFiscal/NotaFiscal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumeroUtil/NumeroUtil.iml" filepath="$PROJECT_DIR$/NumeroUtil/NumeroUtil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Produtos/Produtos.iml" filepath="$PROJECT_DIR$/Produtos/Produtos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TesteWrappers/TesteWrappers.iml" filepath="$PROJECT_DIR$/TesteWrappers/TesteWrappers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Turma/Turma.iml" filepath="$PROJECT_DIR$/Turma/Turma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayss/arrayss.iml" filepath="$PROJECT_DIR$/arrayss/arrayss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamento/encapsulamento.iml" filepath="$PROJECT_DIR$/encapsulamento/encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pagamento/pagamento.iml" filepath="$PROJECT_DIR$/pagamento/pagamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
