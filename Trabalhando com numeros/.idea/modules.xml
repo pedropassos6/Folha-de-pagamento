@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BigDecimal/BigDecimal.iml" filepath="$PROJECT_DIR$/BigDecimal/BigDecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data e hora legado/Data e hora legado.iml" filepath="$PROJECT_DIR$/Data e hora legado/Data e hora legado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafio/Desafio.iml" filepath="$PROJECT_DIR$/Desafio/Desafio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trabalhando com numeros.iml" filepath="$PROJECT_DIR$/Trabalhando com numeros.iml" />
+    </modules>
+  </component>
+</project>

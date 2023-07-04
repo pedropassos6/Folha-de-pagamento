@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula25.1/Aula25.1.iml" filepath="$PROJECT_DIR$/Aula25.1/Aula25.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula25.10/Aula25.10.iml" filepath="$PROJECT_DIR$/Aula25.10/Aula25.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula25.11/Aula25.11.iml" filepath="$PROJECT_DIR$/Aula25.11/Aula25.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula25.12/Aula25.12.iml" filepath="$PROJECT_DIR$/Aula25.12/Aula25.12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula25.13/Aula25.13.iml" filepath="$PROJECT_DIR$/Aula25.13/Aula25.13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula25.14/Aula25.14.iml" filepath="$PROJECT_DIR$/Aula25.14/Aula25.14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula25.16/Aula25.16.iml" filepath="$PROJECT_DIR$/Aula25.16/Aula25.16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula25.9/Aula25.9.iml" filepath="$PROJECT_DIR$/Aula25.9/Aula25.9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafio/Desafio.iml" filepath="$PROJECT_DIR$/Desafio/Desafio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Expressao Lambda.iml" filepath="$PROJECT_DIR$/Expressao Lambda.iml" />
+    </modules>
+  </component>
+</project>
